@@ -1,0 +1,35 @@
+{
+  "tasks": [
+    {
+      "id": "1784010539041",
+      "title": "Buy groceries",
+      "description": "Milk, Eggs, Bread",
+      "dueDate": null,
+      "priority": "High",
+      "category": "Shopping",
+      "completed": false,
+      "recurring": "none",
+      "createdAt": "2026-07-14T06:28:59.041Z",
+      "updatedAt": "2026-07-14T06:28:59.041Z"
+    },
+    {
+      "id": "1784010778005",
+      "title": "Finish project presentation",
+      "description": "Complete the slides for the team review",
+      "dueDate": null,
+      "priority": "High",
+      "category": "Work",
+      "completed": true,
+      "recurring": "none",
+      "createdAt": "2026-07-14T06:32:58.005Z",
+      "updatedAt": "2026-07-14T06:46:06.650Z"
+    }
+  ],
+  "categories": [
+    "Work",
+    "Personal",
+    "Shopping",
+    "Health",
+    "Finance"
+  ]
+}
